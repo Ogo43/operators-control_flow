@@ -1,11 +1,11 @@
-JavaScript Operators and their symbols;
+A1) JavaScript Operators and their symbols;
 - Arithmetic Operators (+, -, *, /, %, **, ++, --)
 - Assignment Operators (=, +=, -=, *=, /=, %=, **=)
 - Comparison Operators (>, <, >=, <=, >==, ===, !=, !==, ?)
 - Logical Operators (&&, ||, !)
 - Bitwise Operators (&, |, ~, ^, <<, >>, >>>)
 
-Examples for each JavaScript Operators;
+A2) Examples for each JavaScript Operators;
 - Arithmetic Operators 
 a) let a = 45;
    let b = 15;
@@ -55,7 +55,7 @@ a) let x = 7 & 3;
 b) let y = 6 ^ 2;
    console.log (y)
 
-for (let i = 1; i < 20; i += 7) {
+A4) for (let i = 1; i < 20; i += 7) {
     console.log(i);
 } 
 // Results are 1, 8, 15
